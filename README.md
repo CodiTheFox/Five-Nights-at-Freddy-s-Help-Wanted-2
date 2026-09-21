@@ -21,3 +21,5 @@ Saw that there wasn't a Help Wanted 2 Archipelago, so decided to make one
 * Puzzle Peices
 * Coins (Toggleable)
 * Post Level Win Items (Toggleable)
+## Filler
+The Filler item name is "Bag of Dissapointment Chips"
