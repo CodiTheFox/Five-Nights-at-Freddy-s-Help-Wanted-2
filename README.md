@@ -23,3 +23,6 @@ Saw that there wasn't a Help Wanted 2 Archipelago, so decided to make one
 * Post Level Win Items (Toggleable)
 ## Filler
 The Filler item name is "Bag of Dissapointment Chips"
+
+## Notice
+This Manual is/will be designed with both VR and Flatscreen modes in mind, so I personally would like to say if you are at all feeling queasy or unwell playing this in VR, don't be afraid to close the game and boot up Flatscreen
